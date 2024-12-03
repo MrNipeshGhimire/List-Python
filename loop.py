@@ -27,4 +27,6 @@ product = [[1,2,3],[4,5,6],[1,2,34]]
 
 for i in product:
     for j in i:
-        print(j) 
+        print(j)
+
+

@@ -7,5 +7,3 @@ print(type(myTypl))
 print(type("hello"))
 
 # list methodds
-
-list.insert(0,"hellooo")

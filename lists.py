@@ -24,5 +24,5 @@ print(list2)
 list3 = list + list2  #Joining two lists
 print(list3)
 
-list.pop(1)
+list.pop(1)  #pop le item delete garxa
 print(list)
