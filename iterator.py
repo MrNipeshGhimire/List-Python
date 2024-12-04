@@ -7,3 +7,5 @@ print(next(l))
 print(next(l))
 list.append("kera")
 print(next(l))
+
+
